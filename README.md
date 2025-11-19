@@ -1,4 +1,4 @@
-## Simple-pendulum-with-C++
+# Simple-pendulum-with-C++
 This project simulates the motion of a simple pendulum by solving its equations of motion using three numerical integration methods:
 
 -Euler
@@ -8,7 +8,7 @@ This project simulates the motion of a simple pendulum by solving its equations 
 -Runge-Kutta 4th order (RK4)
 
 The goal is to compare how each method approximates the pendulum’s angle over time.
-# Repository Contents
+## Repository Contents
 -practica15.cpp – main program with the numerical implementations.
 
 -matrix.h – helper header for matrix operations in C++.
