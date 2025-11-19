@@ -5,6 +5,7 @@ This project simulates the motion of a simple pendulum by solving its equations 
 -Runge-Kutta 2nd order (RK2)
 
 -Runge-Kutta 4th order (RK4)
+
 The goal is to compare how each method approximates the pendulum’s angle over time.
 # Repository Contents
 -practica15.cpp – main program with the numerical implementations.
