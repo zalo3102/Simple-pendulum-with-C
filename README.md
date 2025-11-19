@@ -1,5 +1,6 @@
 ## Simple-pendulum-with-C++
 This project simulates the motion of a simple pendulum by solving its equations of motion using three numerical integration methods:
+
 -Euler
 
 -Runge-Kutta 2nd order (RK2)
