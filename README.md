@@ -11,8 +11,4 @@ The goal is to compare how each method approximates the pendulum’s angle over 
 
 -matrix.h – helper header for matrix operations in C++.
 
--Datos2.txt – output file containing angle vs. time data for all methods.
-
--angulo.jpg – plot of angle evolution over time based on Datos2.txt.
-
--gnuplot3.p – Gnuplot script to generate the plot.
+-Analysis Outputs/ – This directory contains the results and scripts related to the analysis of angle evolution over time.
